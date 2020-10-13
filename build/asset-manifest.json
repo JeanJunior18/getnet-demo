@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c6de82b8.chunk.js",
+    "main.js.map": "/static/js/main.c6de82b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9beb02a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9beb02a6.js.map",
+    "static/js/2.b6219c75.chunk.js": "/static/js/2.b6219c75.chunk.js",
+    "static/js/2.b6219c75.chunk.js.map": "/static/js/2.b6219c75.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.487fa91b1106e67fa8d209b67cbef589.js": "/precache-manifest.487fa91b1106e67fa8d209b67cbef589.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.b6219c75.chunk.js.LICENSE.txt": "/static/js/2.b6219c75.chunk.js.LICENSE.txt",
+    "static/media/chart.png": "/static/media/chart.01ae591d.png",
+    "static/media/configuracao.svg": "/static/media/configuracao.45b8c53a.svg",
+    "static/media/consultoria.svg": "/static/media/consultoria.9136b0c9.svg",
+    "static/media/estoque.svg": "/static/media/estoque.85a3afba.svg",
+    "static/media/financeiro.svg": "/static/media/financeiro.77a35c99.svg",
+    "static/media/fornecedores.svg": "/static/media/fornecedores.a16568b2.svg",
+    "static/media/getnet-logo.svg": "/static/media/getnet-logo.9f05fa80.svg",
+    "static/media/investimento.svg": "/static/media/investimento.7aa466d9.svg",
+    "static/media/pizza.svg": "/static/media/pizza.9a31ccfe.svg",
+    "static/media/rec1.png": "/static/media/rec1.511374b8.png",
+    "static/media/rec2.png": "/static/media/rec2.3ad1c2d8.png",
+    "static/media/rec3.png": "/static/media/rec3.388a0051.png",
+    "static/media/rec4.png": "/static/media/rec4.b6137034.png",
+    "static/media/relatorio.svg": "/static/media/relatorio.9f6d2c89.svg",
+    "static/media/servicos.svg": "/static/media/servicos.3148e076.svg",
+    "static/media/trilha.svg": "/static/media/trilha.eb3ceb01.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9beb02a6.js",
+    "static/js/2.b6219c75.chunk.js",
+    "static/js/main.c6de82b8.chunk.js"
+  ]
+}
